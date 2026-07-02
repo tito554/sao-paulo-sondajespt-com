@@ -1,0 +1,62 @@
+# Sao Paulo
+
+> Geotechnical engineering company in Brasil, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Analise Amplificacao Sismica](https://sao-paulo.sondajespt.com/analise-amplificacao-sismica/)
+- [Analise Estabilidade Taludes](https://sao-paulo.sondajespt.com/analise-estabilidade-taludes/)
+- [Analise Liquefacao Solos](https://sao-paulo.sondajespt.com/analise-liquefacao-solos/)
+- [Analise Recalque Diferencial](https://sao-paulo.sondajespt.com/analise-recalque-diferencial/)
+- [Analise Resposta Sismica Local](https://sao-paulo.sondajespt.com/analise-resposta-sismica-local/)
+- [Avaliacao Deslizamentos](https://sao-paulo.sondajespt.com/avaliacao-deslizamentos/)
+- [Avaliacao Pavimentos Existentes](https://sao-paulo.sondajespt.com/avaliacao-pavimentos-existentes/)
+- [Avaliacao Solos Colapsiveis](https://sao-paulo.sondajespt.com/avaliacao-solos-colapsiveis/)
+- [Avaliacao Solos Expansivos](https://sao-paulo.sondajespt.com/avaliacao-solos-expansivos/)
+- [Calculo Fator Seguranca](https://sao-paulo.sondajespt.com/calculo-fator-seguranca/)
+- [Caracterizacao Solos Residuais](https://sao-paulo.sondajespt.com/caracterizacao-solos-residuais/)
+- [Classificacao Solos](https://sao-paulo.sondajespt.com/classificacao-solos/)
+- [Cone Penetration Test](https://sao-paulo.sondajespt.com/cone-penetration-test/)
+- [Drenagem Viaria Geotecnica](https://sao-paulo.sondajespt.com/drenagem-viaria-geotecnica/)
+- [Ensaio Cisalhamento Direto](https://sao-paulo.sondajespt.com/ensaio-cisalhamento-direto/)
+- [Ensaio Compressao Simples](https://sao-paulo.sondajespt.com/ensaio-compressao-simples/)
+- [Ensaio Consolidacao Edometrica](https://sao-paulo.sondajespt.com/ensaio-consolidacao-edometrica/)
+- [Ensaio Densidade In Situ](https://sao-paulo.sondajespt.com/ensaio-densidade-in-situ/)
+- [Ensaio Infiltracao](https://sao-paulo.sondajespt.com/ensaio-infiltracao/)
+- [Ensaio Permeabilidade In Situ](https://sao-paulo.sondajespt.com/ensaio-permeabilidade-in-situ/)
+- [Ensaio Permeabilidade Laboratorio](https://sao-paulo.sondajespt.com/ensaio-permeabilidade-laboratorio/)
+- [Ensaio Placa Carga](https://sao-paulo.sondajespt.com/ensaio-placa-carga/)
+- [Ensaios In Situ](https://sao-paulo.sondajespt.com/ensaios-in-situ/)
+- [Escavacoes Subterraneas](https://sao-paulo.sondajespt.com/escavacoes-subterraneas/)
+- [Especificacao Geogrelhas](https://sao-paulo.sondajespt.com/especificacao-geogrelhas/)
+- [Especificacao Geomembranas](https://sao-paulo.sondajespt.com/especificacao-geomembranas/)
+- [Estabilizacao Cal Cimento](https://sao-paulo.sondajespt.com/estabilizacao-cal-cimento/)
+- [Estudo Cbr Projeto Viario](https://sao-paulo.sondajespt.com/estudo-cbr-projeto-viario/)
+- [Estudo Mecanica Solos](https://sao-paulo.sondajespt.com/estudo-mecanica-solos/)
+- [Exploracao](https://sao-paulo.sondajespt.com/exploracao/)
+- [Fundacoes](https://sao-paulo.sondajespt.com/fundacoes/)
+- [Geofisica](https://sao-paulo.sondajespt.com/geofisica/)
+- [Geotecnia Viaria](https://sao-paulo.sondajespt.com/geotecnia-viaria/)
+- [Instrumentacao Geotecnica](https://sao-paulo.sondajespt.com/instrumentacao-geotecnica/)
+- [Laboratorio](https://sao-paulo.sondajespt.com/laboratorio/)
+- [Limites Atterberg](https://sao-paulo.sondajespt.com/limites-atterberg/)
+- [Manejo Solos Organicos](https://sao-paulo.sondajespt.com/manejo-solos-organicos/)
+- [Melhoramento](https://sao-paulo.sondajespt.com/melhoramento/)
+- [Microtremores Hvsr](https://sao-paulo.sondajespt.com/microtremores-hvsr/)
+- [Microzoneamento Sismico](https://sao-paulo.sondajespt.com/microzoneamento-sismico/)
+- [Monitoramento Geotecnico Escavacoes](https://sao-paulo.sondajespt.com/monitoramento-geotecnico-escavacoes/)
+- [Monitoramento Geotecnico Taludes](https://sao-paulo.sondajespt.com/monitoramento-geotecnico-taludes/)
+- [Normal Ou Modificado](https://sao-paulo.sondajespt.com/normal-ou-modificado/)
+- [Peneiramento Hidrometro](https://sao-paulo.sondajespt.com/peneiramento-hidrometro/)
+- [Projeto Aterros Viarios](https://sao-paulo.sondajespt.com/projeto-aterros-viarios/)
+- [Projeto Compactacao Dinamica](https://sao-paulo.sondajespt.com/projeto-compactacao-dinamica/)
+- [Projeto Cortinas Estacas Pranchas](https://sao-paulo.sondajespt.com/projeto-cortinas-estacas-pranchas/)
+- [Projeto Fundacoes Superficiais](https://sao-paulo.sondajespt.com/projeto-fundacoes-superficiais/)
+- [Projeto Geocelulas](https://sao-paulo.sondajespt.com/projeto-geocelulas/)
+- [Projeto Injecoes](https://sao-paulo.sondajespt.com/projeto-injecoes/)
+
+## Contact
+- Website: https://sao-paulo.sondajespt.com/
+
+## About
+This page provides information about geotechnical engineering services available in Brasil.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
